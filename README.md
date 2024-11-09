@@ -1,2 +1,3 @@
 # Githarshad
-Author - Harshad Kadu
+Author - Harshad Kadu.
+This is a workshop on git.
